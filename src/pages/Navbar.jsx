@@ -50,15 +50,45 @@ const Navbar = () => {
         className="rounded-md px-3 py-2 text-sm font-medium"
         activeClassName="bg-blue-500 text-white"
       >
-        Variable Save
+       home
       </NavLink>
       <NavLink
         to="/settings"
         className="rounded-md px-3 py-2 text-sm font-medium"
         activeClassName="bg-blue-500 text-white"
       >
-        Text Formating
+       My component
       </NavLink>
+
+      <NavLink
+        to="/login"
+        className="rounded-md px-3 py-2 text-sm font-medium"
+        activeClassName="bg-blue-500 text-white"
+      >
+       Login
+      </NavLink>
+      <NavLink
+        to="/signup"
+        className="rounded-md px-3 py-2 text-sm font-medium"
+        activeClassName="bg-blue-500 text-white"
+      >
+       sign up
+      </NavLink>
+      <NavLink
+        to="/list"
+        className="rounded-md px-3 py-2 text-sm font-medium"
+        activeClassName="bg-blue-500 text-white"
+      >
+    list
+      </NavLink>
+      <NavLink
+        to="/signature"
+        className="rounded-md px-3 py-2 text-sm font-medium"
+        activeClassName="bg-blue-500 text-white"
+      >
+    Signature
+      </NavLink>
+     
                     {/* <a
                         key={'/dashboard'}
                         href={'/dashboard'}

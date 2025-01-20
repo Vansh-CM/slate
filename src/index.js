@@ -19,6 +19,18 @@ root.render(
   </Provider>
   </>
   // document.getElementById('root')
+  /*
+  utha - 8 
+  phone chlate chlate - fresh hokar nhaya 9:30 ko nikal aaya
+  tabse koi kaam nhi bss bethkar reels or videos dekh rha hun
+  lunch me time pass kiya
+  fir - ab youtube videos dekh rha hun
+  chai ka intjar 
+  karna kya chahiye
+  
+
+
+  */ 
 );
 
 reportWebVitals();
